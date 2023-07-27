@@ -210,7 +210,6 @@ header nav a i {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(10px);
     filter: drop-shadow(1px 1px 50px rgba(168, 168, 168, 0.5));
-    display: none;
 }
 
 .zip .enterzip {
